@@ -45,7 +45,7 @@ When trying out Julia, I've been pretty happy with its `Pkg` manager so far. For
 
 #### How to install packages
 
-Once you get Julia installed, and have the terminal window as below, you can type `[` and you will switch from having the `julia` prompt to the `@v1.9 pkg>`.
+Once you get Julia installed, and have the terminal window as below, you can type `]` and you will switch from having the `julia` prompt to the `@v1.9 pkg>`.
 
 
 
@@ -63,7 +63,7 @@ Once you get Julia installed, and have the terminal window as below, you can typ
 
 julia> 
 
-# I typed `[` then I got the prompt below
+# I typed `]` then I got the prompt below
 
 (@v1.9) pkg> status
 Status `~/.julia/environments/v1.9/Project.toml`
