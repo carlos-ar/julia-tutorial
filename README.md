@@ -4,7 +4,7 @@ We will be trying out the Julia language, and getting some code to run, so every
 
 ## Installation
 
-You will need to download the Julia language from here:
+You will need to download the Julia language from here: https://julialang.org/downloads/
 
 I installed version 1.9.4. Once I run it, it opens a terminal window (for those with Mac, and I presume Linux as well).
 
